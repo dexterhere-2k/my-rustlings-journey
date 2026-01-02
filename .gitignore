@@ -1,0 +1,29 @@
+# --- Rust Build Artifacts ---
+# This ignores the massive 'target' folder where Rust compiles code
+/target
+/debug
+/release
+
+# --- Rustlings Tool Internals ---
+# Ignore the compiled rustlings binary itself
+rustlings
+# Ignore installation logs
+*.log
+# Ignore the official solutions folder (so only your work shows)
+/solutions
+# Ignore the internal macro code you aren't editing
+/rustlings-macros
+/src
+/tests
+
+# --- IDE & OS Junk ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Configs you might not want to track ---
+.install.log
+
+
+website/
