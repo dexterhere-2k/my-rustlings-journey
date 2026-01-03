@@ -8,8 +8,8 @@ I am using this project to build a deep understanding of Rust’s unique memory 
 
 [Rust By Example](https://doc.rust-lang.org/rust-by-example/) - For quick syntax references and code samples.
 ### Progress Tracker
-| Module | Status | Completion Date | Solution Link |
-| :--- | :---: | :--- | :--- |
+| Module | Status | Completion Date |
+| :--- | :---: | :---
 | **01 Variables** | ✅ Done | Jan 02, 2026 
 | **02 Functions** | ✅ Done | Jan 02, 2026 
 | **03 If** | ✅ Done | Jan 02, 2026 
