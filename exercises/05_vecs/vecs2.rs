@@ -4,6 +4,7 @@ fn vec_loop(input: &[i32]) -> Vec<i32> {
     for element in input {
         // TODO: Multiply each element in the `input` slice by 2 and push it to
         // the `output` vector.
+        output.push(2 * element);
     }
 
     output
@@ -11,6 +12,7 @@ fn vec_loop(input: &[i32]) -> Vec<i32> {
 
 fn main() {
     // You can optionally experiment here.
+    vec_loop(&[2, 4, 6, 8, 10]);
 }
 
 #[cfg(test)]
