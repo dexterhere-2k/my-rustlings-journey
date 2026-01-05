@@ -14,9 +14,12 @@ I am using this project to build a deep understanding of Rust’s unique memory 
 | **02 Functions** | ✅ Done | Jan 02, 2026 
 | **03 If** | ✅ Done | Jan 02, 2026 
 | **04 Primitive Types** | ✅ Done | Jan 02, 2026 
-| **05 Move Semantics** | ✅ Done | Jan 03, 2026 
-| **06 Structs** | ✅ Done | Jan 03, 2026 
-| **10 Vectors** | ✅ Done | Jan 03, 2026 
+| **05 Vecs** | ✅ Done | Jan 03, 2026 
+| **06 Move Semantics** | ✅ Done | Jan 03, 2026 
+| **07 Structs** | ✅ Done | Jan 03, 2026 
+| **08 Enums** | ✅ Done | Jan 05, 2026 
+| **09 Strings** | ✅ Done | Jan 05, 2026 
+| **10 Modules** | ✅ Done | Jan 05, 2026 
 
 
 ---
