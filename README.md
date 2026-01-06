@@ -20,6 +20,9 @@ I am using this project to build a deep understanding of Rust’s unique memory 
 | **08 Enums** | ✅ Done | Jan 05, 2026 
 | **09 Strings** | ✅ Done | Jan 05, 2026 
 | **10 Modules** | ✅ Done | Jan 05, 2026 
+| **12 Options** | ✅ Done | Jan 06, 2026 
+| **14 Generics** | ✅ Done | Jan 06, 2026 
+
 
 
 ---
