@@ -22,7 +22,8 @@ I am using this project to build a deep understanding of Rust’s unique memory 
 | **10 Modules** | ✅ Done | Jan 05, 2026 
 | **12 Options** | ✅ Done | Jan 06, 2026 
 | **14 Generics** | ✅ Done | Jan 06, 2026 
-
+| **11 HashMaps** | ✅ Done | Jan 10, 2026 
+| **17 Tests** | ✅ Done | Jan 10, 2026 
 
 
 ---
