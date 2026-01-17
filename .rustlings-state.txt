@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-tests3
+traits5
 
 intro1
 intro2
@@ -49,3 +49,7 @@ hashmaps3
 options3
 generics1
 generics2
+traits1
+traits2
+traits3
+traits4
