@@ -25,6 +25,6 @@ I am using this project to build a deep understanding of Rust’s unique memory 
 | **11 HashMaps** | ✅ Done | Jan 10, 2026 
 | **17 Tests** | ✅ Done | Jan 10, 2026 
 | **22 Macros** | ✅ Done | Jan 27, 2026 
-
+| **22 Error Handling** | ✅ Done | Jan 27, 2026 
 
 ---
