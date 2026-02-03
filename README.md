@@ -27,4 +27,6 @@ I am using this project to build a deep understanding of Rust’s unique memory 
 | **22 Macros** | ✅ Done | Jan 27, 2026 
 | **13 Error Handling** | ✅ Done | Jan 27, 2026 
 | **15 Traits** | ✅ Done | Jan 17, 2026 
+| **20 Threads** | ✅ Done | Feb 02, 2026 
+
 ---
